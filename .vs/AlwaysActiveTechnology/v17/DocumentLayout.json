@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git\\AlwaysActiveTechnology\\AlwaysActiveTechnology\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8710AF73-8EC1-4E99-81D1-8A25B4091B07}|AlwaysActiveTechnology.Service\\AlwaysActiveTechnology.Service.csproj|c:\\git\\alwaysactivetechnology\\alwaysactivetechnology\\alwaysactivetechnology.service\\primenumberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8710AF73-8EC1-4E99-81D1-8A25B4091B07}|AlwaysActiveTechnology.Service\\AlwaysActiveTechnology.Service.csproj|solutionrelative:alwaysactivetechnology.service\\primenumberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A021F1-BF35-4DB2-9AAC-5238E7705FBA}|AlwaysActiveTechnology.Persistence\\AlwaysActiveTechnology.Persistence.csproj|c:\\git\\alwaysactivetechnology\\alwaysactivetechnology\\alwaysactivetechnology.persistence\\dbcontextprimenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2A021F1-BF35-4DB2-9AAC-5238E7705FBA}|AlwaysActiveTechnology.Persistence\\AlwaysActiveTechnology.Persistence.csproj|solutionrelative:alwaysactivetechnology.persistence\\dbcontextprimenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrimeNumberService.cs",
+              "DocumentMoniker": "C:\\Git\\AlwaysActiveTechnology\\AlwaysActiveTechnology\\AlwaysActiveTechnology.Service\\PrimeNumberService.cs",
+              "RelativeDocumentMoniker": "AlwaysActiveTechnology.Service\\PrimeNumberService.cs",
+              "ToolTip": "C:\\Git\\AlwaysActiveTechnology\\AlwaysActiveTechnology\\AlwaysActiveTechnology.Service\\PrimeNumberService.cs",
+              "RelativeToolTip": "AlwaysActiveTechnology.Service\\PrimeNumberService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:15:40.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbContextPrimeNumbers.cs",
+              "DocumentMoniker": "C:\\Git\\AlwaysActiveTechnology\\AlwaysActiveTechnology\\AlwaysActiveTechnology.Persistence\\DbContextPrimeNumbers.cs",
+              "RelativeDocumentMoniker": "AlwaysActiveTechnology.Persistence\\DbContextPrimeNumbers.cs",
+              "ToolTip": "C:\\Git\\AlwaysActiveTechnology\\AlwaysActiveTechnology\\AlwaysActiveTechnology.Persistence\\DbContextPrimeNumbers.cs",
+              "RelativeToolTip": "AlwaysActiveTechnology.Persistence\\DbContextPrimeNumbers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:04:34.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
